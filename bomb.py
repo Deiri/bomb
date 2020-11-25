@@ -1,4 +1,7 @@
 import requests 
+import is
+
+os.system('clear') 
 print("Ты реально думаешь что если я играю в амонг то я не умею кодить?\n\nПиши номер телефона, он должен начинатся так: +7 или +380\n\n") 
 phone = input("Номер: ") 
 phone = str(phone)
